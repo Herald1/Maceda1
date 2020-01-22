@@ -1,2 +1,2 @@
 # Maceda1
-HAKDOG
+SANDOK
